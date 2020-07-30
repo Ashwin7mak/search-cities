@@ -1,4 +1,3 @@
 # Search-cities
 
-
-https://ashwin7mak.github.io/Search-cities/index.html
+https://ashwin7mak.github.io/search-cities/index.html
